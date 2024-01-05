@@ -1,0 +1,32 @@
+{
+  "_name_or_path" :  "microsoft/phi-2" ,
+  "función_activación" :  "gelu_new" ,
+  "arquitecturas" :  [
+    "PhiForCausalLM"
+  ] ,
+  "attn_pdrop" :  0.0 ,
+  "mapa_automático" :  {
+    "AutoConfig" :  "configuration_phi.PhiConfig" ,
+    "AutoModelForCausalLM" :  "modeling_phi.PhiForCausalLM"
+  } ,
+  "embd_pdrop" :  0.0 ,
+  "flash_attn" :  falso ,
+  "flash_rotary" :  falso ,
+  "fusionado_denso" :  falso ,
+  "img_processor" :  nulo ,
+  "rango_inicializador" :  0.02 ,
+  "layer_norm_epsilon" :  1e-05 ,
+  "tipo_modelo" :  "phi-msft" ,
+  "n_embd" :  2560 ,
+  "n_cabeza" :  32 ,
+  "n_head_kv" :  nulo ,
+  "n_inner" :  nulo ,
+  "n_capa" :  32 ,
+  "n_posiciones" :  2048 ,
+  "resid_pdrop" :  0,1 ,
+  "rotary_dim" :  32 ,
+  "tie_word_embeddings" :  falso ,
+  "torch_dtype" :  "float16" ,
+  "transformers_version" :  "4.35.2" ,
+  "vocab_size" :  51200
+}
