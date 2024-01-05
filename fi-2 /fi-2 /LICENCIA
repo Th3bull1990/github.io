@@ -1,0 +1,71 @@
+TÉRMINOS DE LICENCIA DE INVESTIGACIÓN DE MICROSOFT
+
+SI VIVE EN LOS ESTADOS UNIDOS, LEA LA SECCIÓN “ARBITRAJE VINCULANTE Y RENUNCIA A DEMANDA COLECTIVA” A CONTINUACIÓN. AFECTA LA CÓMO SE RESUELVEN LAS DISPUTAS.
+
+Estos términos de licencia son un acuerdo entre usted y Microsoft Corporation (o una de sus filiales). Se aplican al código fuente, código objeto, modelos de aprendizaje automático o datos (colectivamente "Materiales") que acompañan a esta licencia. SI CUMPLE CON ESTOS TÉRMINOS DE LICENCIA, TIENE LOS DERECHOS A CONTINUACIÓN. AL UTILIZAR LOS MATERIALES, USTED ACEPTA ESTOS TÉRMINOS.
+
+1) DERECHOS DE INSTALACIÓN Y USO DE LOS MATERIALES.
+
+Sujeto a los términos de este acuerdo, usted tiene los siguientes derechos, si corresponde, para utilizar los Materiales únicamente con fines de investigación no comerciales y que no generen ingresos:
+
+a) Código fuente. Si se incluye el código fuente, puede utilizar y modificar el código fuente, pero no puede distribuir el código fuente.
+
+b) Código objeto. Si se incluye código objeto, puede utilizar el código objeto, pero no puede distribuirlo.
+
+c) Modelos. Si se incluyen modelos de aprendizaje automático, puede utilizarlos, pero no puede distribuirlos.
+
+d) Datos. Si se incluyen datos, puede usarlos y modificarlos, pero su uso y modificación deben ser consistentes con el consentimiento bajo el cual se proporcionaron y/o recopilaron los datos y no puede distribuir los datos ni sus modificaciones a los datos.
+
+2) ALCANCE DE LA LICENCIA. Los Materiales tienen licencia, no se venden. Microsoft se reserva todos los demás derechos. A menos que la ley aplicable le otorgue más derechos a pesar de esta limitación, usted no podrá (ni tendrá derecho a):
+
+a) solucionar cualquier limitación técnica en los Materiales que solo le permitan usarlos de ciertas maneras;
+
+b) realizar ingeniería inversa, descompilar o desensamblar los Materiales;
+
+c) eliminar, minimizar, bloquear o modificar cualquier aviso de Microsoft o sus proveedores en los Materiales;
+
+d) utilizar los Materiales de cualquier forma que vaya en contra de la ley o para crear o propagar malware; o
+
+e) compartir, publicar, distribuir o prestar los Materiales, proporcionar los Materiales como una solución alojada independiente para que otros los utilicen, o transferir los Materiales o este acuerdo a cualquier tercero.
+
+3) DATOS PERSONALES. Si los datos (establecidos en la Sección 1(c) anterior) incluyen o se descubre que incluyen cualquier dato que permita identificar a un individuo (“Datos personales”), no utilizará dichos Datos personales para ningún propósito distinto al autorizado y consentido por el interesado/participante de la investigación. No utilizará Datos personales para contactar a ninguna persona. Mantendrá los Datos personales en estricta confidencialidad. No compartirá ningún dato personal que recopile o que esté en su posesión con ningún tercero por ningún motivo y según lo exige el acuerdo de consentimiento original. Además, destruirá los Datos personales y cualquier copia de seguridad o copia inmediatamente después de completar su investigación.
+
+4) LICENCIA A MICROSOFT. Sin perjuicio de las limitaciones de la Sección 1, usted puede distribuir sus modificaciones a Microsoft y, si proporciona a Microsoft modificaciones de los Materiales, por el presente otorga a Microsoft, sin restricciones ni limitaciones, un derecho no exclusivo, perpetuo, irrevocable y de regalías. licencia gratuita, asignable y sublicenciable, para reproducir, ejecutar o exhibir públicamente, instalar, usar, modificar, publicar, distribuir, hacer y hacer, vender y transferir dichas modificaciones y derivados para cualquier propósito.
+
+5) PUBLICACIÓN. Puede publicar (o presentar trabajos o artículos) sobre los resultados del uso de los Materiales, siempre que no se incluya ningún material o parte sustancial de los Materiales en dicha publicación o presentación.
+
+6) RETROALIMENTACIÓN. Cualquier comentario sobre los Materiales que usted nos proporcione se proporciona de forma voluntaria y Microsoft tendrá la libertad de utilizar los comentarios como mejor le parezca, sin obligación ni restricción de ningún tipo, incluso si el
+
+Usted designa sus comentarios como confidenciales. Dichos comentarios se considerarán una contribución y se otorgarán licencia a Microsoft según los términos de la Sección 4 anterior.
+
+7) RESTRICCIONES A LA EXPORTACIÓN. Debe cumplir con todas las leyes y regulaciones de exportación nacionales e internacionales que se aplican a los Materiales, que incluyen restricciones sobre destinos, usuarios finales y uso final. Para obtener más información sobre las restricciones a la exportación, visite (aka.ms/exporting).
+
+8) SERVICIOS DE APOYO. Microsoft no está obligado en virtud de este acuerdo a proporcionar ningún servicio de soporte para los Materiales. Cualquier soporte proporcionado es "tal cual", "con todos los defectos" y sin garantía de ningún tipo.
+
+9) ARBITRAJE VINCULANTE Y RENUNCIA A DEMANDA COLECTIVA. Esta Sección se aplica si usted vive (o, si es un negocio, su lugar principal de negocios está en) los Estados Unidos. Si usted y Microsoft tienen una disputa, usted y Microsoft acuerdan intentar resolverla de manera informal durante 60 días. Si usted y Microsoft no pueden, usted y Microsoft acuerdan someterse a un arbitraje individual vinculante ante la Asociación Estadounidense de Arbitraje conforme a la Ley Federal de Arbitraje (“FAA”) y no demandar ante un tribunal frente a un juez o jurado. En cambio, decidirá un árbitro neutral. No se permiten demandas colectivas, arbitrajes colectivos, acciones de fiscales generales privados y cualquier otro procedimiento en el que alguien actúe en calidad de representante; ni tampoco lo es combinar procedimientos individuales sin el consentimiento de todas las partes. El Acuerdo de arbitraje completo contiene más términos y se encuentra en aka.ms/arb-agreement-1. Usted y Microsoft aceptan estos términos.
+
+10) CONTRATO COMPLETO. Este acuerdo, y cualquier otro término que Microsoft pueda proporcionar para complementos, actualizaciones o aplicaciones de terceros, constituye el acuerdo completo para los Materiales.
+
+11) LEY APLICABLE Y LUGAR PARA RESOLVER CONTROVERSIAS. Si adquirió los Materiales en los Estados Unidos o Canadá, las leyes del estado o provincia donde vive (o, si es una empresa, donde se encuentra su lugar principal de negocios) rigen la interpretación de este acuerdo, los reclamos por su incumplimiento, y todos los demás reclamos (incluyendo protección al consumidor, competencia desleal y reclamos por daños), independientemente de los principios de conflicto de leyes, excepto que la FAA rige todo lo relacionado con el arbitraje. Si adquirió los Materiales en cualquier otro país, se aplican sus leyes, excepto que la FAA rige todo lo relacionado con el arbitraje. Si existe jurisdicción federal de EE. UU., usted y Microsoft aceptan la jurisdicción y competencia exclusivas en el tribunal federal del condado de King, Washington, para todas las disputas que se escuchen en los tribunales (excluido el arbitraje). De lo contrario, usted y Microsoft aceptan la jurisdicción y jurisdicción exclusivas del Tribunal Superior del Condado de King, Washington, para todas las disputas que se escuchen en los tribunales (excluido el arbitraje).
+
+12) DERECHOS DEL CONSUMIDOR; VARIACIONES REGIONALES. Este acuerdo, describe ciertos derechos legales. Es posible que tenga otros derechos, incluidos los derechos del consumidor, según las leyes de su estado, provincia o país. Independientemente de su relación con Microsoft, también puede tener derechos con respecto a la parte de la que adquirió los Materiales. Este acuerdo no cambia esos otros derechos si las leyes de su estado, provincia o país no lo permiten. Por ejemplo, si adquirió los Materiales en una de las siguientes regiones, o si se aplican leyes obligatorias del país, se le aplicarán las siguientes disposiciones:
+
+a) Australia. Usted tiene garantías legales según la Ley del Consumidor de Australia y nada en este acuerdo pretende afectar esos derechos.
+
+b) Canadá. Si adquirió este software en Canadá, puede dejar de recibir actualizaciones desactivando la función de actualización automática y desconectando su dispositivo de Internet (sin embargo, cuando se vuelva a conectar a Internet, los Materiales reanudarán la búsqueda e instalación de actualizaciones). ), o desinstalar los Materiales. La documentación del producto, si la hubiera, también puede especificar cómo desactivar las actualizaciones para su dispositivo o software específico.
+
+c) Alemania y Austria.
+
+i. Garantía. El software con la licencia adecuada funcionará sustancialmente como se describe en cualquier material de Microsoft que acompañe a los Materiales. Sin embargo, Microsoft no ofrece ninguna garantía contractual en relación con el software licenciado.
+
+ii. Limitación de responsabilidad. En caso de conducta intencional, negligencia grave, reclamaciones basadas en la Ley de Responsabilidad del Producto, así como en caso de muerte o lesiones personales o físicas, Microsoft es responsable de acuerdo con la ley.
+
+Sujeto a la cláusula (ii) anterior, Microsoft solo será responsable de negligencia leve si Microsoft incumple dichas obligaciones contractuales importantes, cuyo cumplimiento facilita el debido cumplimiento de este acuerdo, cuyo incumplimiento pondría en peligro el propósito de este acuerdo y en cuyo cumplimiento una parte puede confiar constantemente (las llamadas "obligaciones cardinales"). En otros casos de negligencia leve, Microsoft no será responsable de negligencia leve.
+
+13) RENUNCIA DE GARANTÍA. LOS MATERIALES TIENEN LICENCIA "TAL CUAL". USTED ASUME EL RIESGO DE UTILIZARLOS. MICROSOFT NO OFRECE GARANTÍAS NI CONDICIONES EXPRESAS. EN LA MEDIDA EN QUE LO PERMITA LA LEY APLICABLE, MICROSOFT EXCLUYE TODAS LAS GARANTÍAS IMPLÍCITAS, INCLUYENDO LA COMERCIABILIDAD, LA IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y LA NO INFRACCIÓN.
+
+14) LIMITACIÓN Y EXCLUSIÓN DE DAÑOS. SI TIENE ALGUNA BASE PARA RECUPERAR DAÑOS A PESAR DE LA RENUNCIA DE GARANTÍA ANTERIOR, PUEDE RECUPERAR DE MICROSOFT Y SUS PROVEEDORES SÓLO DAÑOS DIRECTOS DE HASTA USD 5,00. USTED NO PUEDE RECUPERAR NINGÚN OTRO DAÑO, INCLUYENDO DAÑOS CONSECUENCIALES, PÉRDIDA DE BENEFICIOS, ESPECIALES, INDIRECTOS O INCIDENTALES.
+
+Esta limitación se aplica a (a) cualquier cosa relacionada con los Materiales, servicios, contenido (incluido el código) en sitios de Internet de terceros o aplicaciones de terceros; y (b) reclamaciones por incumplimiento de contrato, garantía o condición; responsabilidad estricta, negligencia u otro agravio; o cualquier otro reclamo; en cada caso en la medida permitida por la legislación aplicable.
+
+También se aplica incluso si Microsoft sabía o debería haber sabido acerca de la posibilidad de los daños. Es posible que la limitación o exclusión anterior no se aplique a usted porque su estado, provincia o país no permita la exclusión o limitación de daños incidentales, consecuentes o de otro tipo.
