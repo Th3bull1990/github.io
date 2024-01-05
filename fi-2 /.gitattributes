@@ -1,0 +1,35 @@
+*.7z filtro =lfs diff =lfs merge =lfs -texto
+* .filtro de flecha =lfs diff =lfs merge =lfs -text
+*.filtro bin = lfs diff =lfs merge =lfs -texto
+*.bz2 filtro =lfs diff =lfs fusionar =lfs -texto
+*.ckpt filtro =lfs diff =lfs merge =lfs -texto
+*.filtro ftz = lfs diff =lfs merge =lfs -texto
+*.gz filtro =lfs diff =lfs merge =lfs -texto
+*.h5 filtro =lfs diff =lfs merge =lfs -texto
+*.filtro joblib = lfs diff =lfs merge =lfs -texto
+*.lfs.* filtro =lfs diff =lfs merge =lfs -texto
+*.filtro mlmodel = lfs diff =lfs merge =lfs -text
+* .filtro de modelo =lfs diff =lfs merge =lfs -text
+*.msgpack filtro =lfs diff =lfs merge =lfs -texto
+*.filtro npy = lfs diff =lfs merge =lfs -texto
+*.filtro npz = lfs diff =lfs merge =lfs -texto
+*.filtro onnx = lfs diff =lfs merge =lfs -text
+*.ot filtro =lfs diff =lfs merge =lfs -texto
+* .filtro parquet =lfs diff =lfs merge =lfs -texto
+*.pb filtro =lfs diff =lfs merge =lfs -texto
+*.filtro pickle =lfs diff =lfs merge =lfs -text
+*.pkl filtro =lfs diff =lfs fusionar =lfs -texto
+*.pt filtro =lfs diff =lfs merge =lfs -texto
+*.pth filtro =lfs diff =lfs merge =lfs -texto
+* .filtro rar =lfs diff =lfs merge =lfs -texto
+* .filtro de tensores seguros =lfs diff =lfs merge =lfs -text
+modelo_salvado/**/* filtro =lfs diff =lfs merge =lfs -text
+*.tar.* filtro =lfs diff =lfs merge =lfs -texto
+* .filtro tar =lfs diff =lfs merge =lfs -texto
+*.filtro tflite = lfs diff =lfs merge =lfs -text
+*.tgz filtro =lfs diff =lfs merge =lfs -texto
+*.filtro wasm = lfs diff =lfs merge =lfs -text
+*.xz filtro =lfs diff =lfs merge =lfs -texto
+*.filtro zip = lfs diff =lfs merge =lfs -texto
+*.zst filtro =lfs diff =lfs merge =lfs -texto
+*tfevents* filtro =lfs diff =lfs merge =lfs -texto
