@@ -1,0 +1,9 @@
+# Ignorar archivos generados
+__pycache__/
+*.pyc
+*.pyo
+*.so
+
+# Ignorar archivos de desarrollo
+.pytest_cache/
+.venv/
